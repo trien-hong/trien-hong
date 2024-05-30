@@ -1,4 +1,5 @@
 - 👋 Hey there, my name is Trien Hong. Most people just call me Daniel.
+- 💼 I am currently working at [BeyondMD](https://beyondmd.care/) as a Software Engineer.
 - 🎓 I graduated from Georgia State University with a Bachelor of Science in Computer Science.
 - 📝 I have a drive for learning, and I am more than willing to learn anything new.
 - 🛠️ I am interested in front-end, back-end, and full-stack development.
